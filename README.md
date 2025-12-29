@@ -1,9 +1,4 @@
 # ToolOrganizer
-Here’s a complete, GitHub-ready English translation of your README (keeping your structure and meaning, just making it clear and professional).
-
----
-
-# ToolOrganizer
 
 ToolOrganizer is an industrial “tool cabinet” kiosk application designed to run 24/7 on a dedicated PC with an always-on display (touchscreen or standard monitor). It allows workers to take and return specific hand tools (e.g., 16 tools) stored inside a locked cabinet.
 
