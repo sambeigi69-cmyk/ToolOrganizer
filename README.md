@@ -188,10 +188,3 @@ For each unlock command (e.g., “activate relay 3 for 2 seconds”):
   * And in this case the system should **not assume** the tool was actually released; it must be tracked separately from successful unlocks.
 
 ---
-
-If you want, I can also convert this into a more “GitHub style” README format with:
-
-* a clean table of contents,
-* a “Features / Planned Features” section,
-* a “File structure” section,
-* and sample CSV/Excel schemas for Article→Machine and Article→AllowedTools.
